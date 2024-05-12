@@ -29,8 +29,9 @@ Implementar un robot paralelo dirigido por cables para que este pueda realizar t
 
 ### ¿Dónde empezar?
 
-**Vídeos**
 
-1. **Object Identification & Animal Recognition With Raspberry Pi + OpenCV + Python**[youtube_list](https://www.youtube.com/watch?v=iOTWZI4RHA8&list=PLPK2l9Knytg7O_okVr-prI1KbZ8GJeMKz).
-2. **Python-OpenCV**[youtube_list] (https://www.youtube.com/watch?v=6R_VU958jPY&list=PLBg7GSvtrU2MOLWM0bGU1_FT3LsJPyY-5)
-3. **CONTANDO OBJETOS (Aplicando Umbralización/Thersholding) en Python - OpenCV** [youtube_list] (https://www.youtube.com/watch?v=wBPIAGNTFzY&list=PLBg7GSvtrU2O3Rs233M82av6EBAwiSQPb)
+
+1. **Cable-Driven Parallel Robots**[Libro](https://link.springer.com/content/pdf/10.1007/978-3-319-76138-1.pdf).
+2. **Open-Source Planar Cable-Driven Robot**[Repositorio] (https://github.com/LionelBirglen/OpenSourcePlanarCableRobot/tree/main)
+3. **Modelling and Implementation of Cable Driven Parallel Manipulator System with Tension Control** [Repositorio] (https://github.com/siddharthumakarthikeyan/Cable-Driven-Parallel-Robots-CDPR-Modelling)
+
