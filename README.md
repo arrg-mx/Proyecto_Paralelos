@@ -67,10 +67,9 @@ Al momento de imprimir esta pieza con los mismos parámetros de impresión de la
 - **Cuarta iteración**  
 Para esta iteración se seleccionaron baleros 6201z en los cuales el diámetro interior es un 150% mayor, además se modificaron los archivos de impresión de modo que, aunque la pieza conservaba los parámetros anteriores, en los ejes se aumentó el relleno a un 100% a fin de aumentar la resistencia mecánica. Por desgracia en el proceso de aumentar la densidad se cometió un error en las propiedades de los modelos auxiliares utilizados para modificar la densidad de la pieza haciendo que el eje no fuera impreso correctamente.  
 Del mismo modo con base en las iteraciones previas se observó que el espesor de la cuerda del tornillo sin fin era insuficiente lo cual causaba que al retirar los soportes era muy propensa a dañarse o incluso fracturarse, razón por la cual se incrementó el paso de la cuerda.
-<img src="Imagenes/CuartaIteracion.jpg"><img src="Imagenes/CuartaIteracion2.jpg"><img src="Imagenes/CuartaIteracion3.jpg">  
+<img src="Imagenes/CuartaIteracion.jpg"><img src="Imagenes/CuartaIteracion2.jpg"><img src="Imagenes/Cuartateracion3.jpg">  
 - **Quinta iteración**  
 Esta iteración volvió a ser incompleta, aunque en esta ocasión se desconoce el motivo, sin embargo, tras un análisis de las partes que si se imprimieron completas, se pudo ver que era necesaria una revisión de las tolerancias en los ejes ya que no presentaban un ajuste adecuado.
-<img src="Imagenes/QuintaIteracion.jpg"><img src="Imagenes/QuintaIteracion2.jpg">
+<img src="Imagenes/QuintaIteracion.jpg"><img src="Imagenes/Quinta iteracion2.jpg">
 - **Sexta iteración**
-Esta fue la ultima iteracion realizada ya que esta ya cuenta con el ajuste de tolerancias y geometria necesaria para el proyecto, los archivos de esta pieza se pueden encontrar en la carpeta de nombre CAD en este mismo repositorio.
-
+Esta fue la última iteración realizada ya que esta ya cuenta con el ajuste de tolerancias y geometría necesaria para el proyecto, los archivos de esta pieza se pueden encontrar en la carpeta de nombre CAD en este mismo repositorio.
